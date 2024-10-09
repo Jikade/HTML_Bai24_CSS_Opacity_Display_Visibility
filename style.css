@@ -1,0 +1,14 @@
+h2 {
+  /* opacity: 100%; */
+  /* display: none; */
+  visibility: hidden;
+  background-color: brown;
+}
+
+body {
+  background-image: url(/img/anh-dat-dien-1200x650-55-1716557945.png);
+}
+
+span{
+    visibility: visible;
+}
